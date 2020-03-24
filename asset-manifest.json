@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/younghoonKimm/TodoApp.git/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/younghoonKimm/TodoApp.git/static/js/main.4c55be1a.chunk.js",
+    "main.js.map": "/younghoonKimm/TodoApp.git/static/js/main.4c55be1a.chunk.js.map",
+    "runtime-main.js": "/younghoonKimm/TodoApp.git/static/js/runtime-main.228214b2.js",
+    "runtime-main.js.map": "/younghoonKimm/TodoApp.git/static/js/runtime-main.228214b2.js.map",
+    "static/js/2.bf72f523.chunk.js": "/younghoonKimm/TodoApp.git/static/js/2.bf72f523.chunk.js",
+    "static/js/2.bf72f523.chunk.js.map": "/younghoonKimm/TodoApp.git/static/js/2.bf72f523.chunk.js.map",
+    "index.html": "/younghoonKimm/TodoApp.git/index.html",
+    "precache-manifest.6766e5ffad0997bdd69fadd5ae22618a.js": "/younghoonKimm/TodoApp.git/precache-manifest.6766e5ffad0997bdd69fadd5ae22618a.js",
+    "service-worker.js": "/younghoonKimm/TodoApp.git/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/younghoonKimm/TodoApp.git/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.bf72f523.chunk.js.LICENSE": "/younghoonKimm/TodoApp.git/static/js/2.bf72f523.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.228214b2.js",
+    "static/js/2.bf72f523.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.4c55be1a.chunk.js"
+  ]
+}
