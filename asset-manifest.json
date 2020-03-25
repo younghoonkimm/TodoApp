@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/younghoonKimm/TodoApp.git/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/younghoonKimm/TodoApp.git/static/js/main.4c55be1a.chunk.js",
-    "main.js.map": "/younghoonKimm/TodoApp.git/static/js/main.4c55be1a.chunk.js.map",
-    "runtime-main.js": "/younghoonKimm/TodoApp.git/static/js/runtime-main.228214b2.js",
-    "runtime-main.js.map": "/younghoonKimm/TodoApp.git/static/js/runtime-main.228214b2.js.map",
-    "static/js/2.bf72f523.chunk.js": "/younghoonKimm/TodoApp.git/static/js/2.bf72f523.chunk.js",
-    "static/js/2.bf72f523.chunk.js.map": "/younghoonKimm/TodoApp.git/static/js/2.bf72f523.chunk.js.map",
-    "index.html": "/younghoonKimm/TodoApp.git/index.html",
-    "precache-manifest.6766e5ffad0997bdd69fadd5ae22618a.js": "/younghoonKimm/TodoApp.git/precache-manifest.6766e5ffad0997bdd69fadd5ae22618a.js",
-    "service-worker.js": "/younghoonKimm/TodoApp.git/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/younghoonKimm/TodoApp.git/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.bf72f523.chunk.js.LICENSE": "/younghoonKimm/TodoApp.git/static/js/2.bf72f523.chunk.js.LICENSE"
+    "main.css": "/TodoApp/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/TodoApp/static/js/main.f9361ae3.chunk.js",
+    "main.js.map": "/TodoApp/static/js/main.f9361ae3.chunk.js.map",
+    "runtime-main.js": "/TodoApp/static/js/runtime-main.1e1b6fad.js",
+    "runtime-main.js.map": "/TodoApp/static/js/runtime-main.1e1b6fad.js.map",
+    "static/js/2.441ec397.chunk.js": "/TodoApp/static/js/2.441ec397.chunk.js",
+    "static/js/2.441ec397.chunk.js.map": "/TodoApp/static/js/2.441ec397.chunk.js.map",
+    "index.html": "/TodoApp/index.html",
+    "precache-manifest.ec30876e53a67c26ef0f262af89cb71b.js": "/TodoApp/precache-manifest.ec30876e53a67c26ef0f262af89cb71b.js",
+    "service-worker.js": "/TodoApp/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/TodoApp/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.441ec397.chunk.js.LICENSE": "/TodoApp/static/js/2.441ec397.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.228214b2.js",
-    "static/js/2.bf72f523.chunk.js",
+    "static/js/runtime-main.1e1b6fad.js",
+    "static/js/2.441ec397.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.4c55be1a.chunk.js"
+    "static/js/main.f9361ae3.chunk.js"
   ]
 }
